@@ -1,6 +1,4 @@
-# Assembly Guide: Haptic Rehabilitation Device
 
-```markdown
 # Step-by-Step Assembly Instructions
 
 ## Tools Required
