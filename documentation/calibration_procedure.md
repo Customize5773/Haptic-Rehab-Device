@@ -1,6 +1,5 @@
 # Calibration Procedure: Haptic Rehabilitation Device
 
-```markdown
 ## Purpose of Calibration
 - Compensates for sensor manufacturing variances
 - Establishes baseline orientation reference
