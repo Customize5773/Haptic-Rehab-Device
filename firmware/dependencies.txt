@@ -1,0 +1,19 @@
+# Required Arduino Libraries
+Adafruit_MPU6050        # For IMU sensor interface
+Adafruit_Unified_Sensor  # Dependency for MPU6050 library
+Wire                    # I2C communication (built-in)
+
+# Hardware Specifications
+PCA9548_I2CMux          # I2C multiplexer (no library needed)
+DRV2605_Haptic_Driver   # Haptic controller (direct register control)
+
+# Compatible Hardware
+MPU6050_IMU             # Inertial Measurement Unit
+DRV2605L_Haptic_Driver  # Precision haptic feedback controller
+PCA9548A                # 8-channel I2C multiplexer
+
+# Recommended Arduino Board
+Arduino_Mega_2560       # Required for PWM4 registers (TCCR4A/B/C/D)
+
+# Additional Dependencies
+avr/power.h             # For PWM frequency control (built-in)
