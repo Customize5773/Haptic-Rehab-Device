@@ -178,7 +178,8 @@ dev.export_data('session1.csv')
 ```
 
 ## Data Visualization
-![Angle Visualization](images/angle_plot.png)
+
+![Angle Visualization](https://github.com/Customize5773/Haptic-Rehab-Device/blob/4a16fa37d6e52ead48504c50453ca700e0feacee/data/Haptic%20Rehabilitation%20Device%20Dashboard%20-%20AICDB%2C%20MPEA%2C%20RPT%2C%20PME%2C%20PSER.png)
 
 **Sample MATLAB Analysis:**
 ```matlab
