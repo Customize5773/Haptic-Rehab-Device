@@ -8,8 +8,6 @@
 
 > Real-time motion correction system for physical therapy using IMU sensors and haptic feedback
 
-A Haptic Rehabilitation Device is an advanced medical technology system that provides real-time tactile feedback to patients during physical therapy exercises. It uses motion sensors to detect body movements and vibration motors to deliver corrective cues when deviations from proper form occur, creating a closed-loop biofeedback system that accelerates recovery.
-
 > Copyrigth: https://www.instructables.com/member/dfougias/
 
 ## What is a Haptic Rehabilitation Device?
