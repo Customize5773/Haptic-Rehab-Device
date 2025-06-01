@@ -1,21 +1,16 @@
-# Haptic Rehabilitation Device
+# Haptic Rehabilitation Device: Revolutionizing Physical Therapy
 
 ![Range-of-Motion-Exercises_-](https://github.com/user-attachments/assets/dce17568-6652-4806-addf-d2b8fdaef471)
 
-# Haptic Rehabilitation Device
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Arduino](https://img.shields.io/badge/Platform-Arduino_Mega_2560-00979D)](https://www.arduino.cc/)
-[![Documentation](https://img.shields.io/badge/Docs-GitHub_Pages-blue)](https://yourusername.github.io/haptic-rehab-device/)
-[![Release](https://img.shields.io/badge/Release-v1.0.0-green)](https://github.com/yourusername/haptic-rehab-device/releases)
 
 > Real-time motion correction system for physical therapy using IMU sensors and haptic feedback
 
 A Haptic Rehabilitation Device is an advanced medical technology system that provides real-time tactile feedback to patients during physical therapy exercises. It uses motion sensors to detect body movements and vibration motors to deliver corrective cues when deviations from proper form occur, creating a closed-loop biofeedback system that accelerates recovery.
 
 > Copyrigth: https://www.instructables.com/member/dfougias/
-
-# Haptic Rehabilitation Device: Revolutionizing Physical Therapy
 
 ## What is a Haptic Rehabilitation Device?
 A **Haptic Rehabilitation Device** is an advanced medical technology system that provides **real-time tactile feedback** to patients during physical therapy exercises. It uses **motion sensors** to detect body movements and **vibration motors** to deliver corrective cues when deviations from proper form occur, creating a closed-loop biofeedback system that accelerates recovery.
