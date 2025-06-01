@@ -108,7 +108,7 @@ graph LR
 4. DRV2605L Haptic Drivers
 5. ERM Vibration Motors (10mm)
 
-[Full Bill of Materials](BOM.md)
+[Full Bill of Materials](hardware/BOM.md)
 
 ## Installation
 
@@ -147,8 +147,6 @@ python serial_monitor.py --port COM3 --baud 9600
    - Perform prescribed exercises
    - Respond to haptic feedback cues
    - Monitor real-time data stream
-
-[Full Usage Instructions](documentation/usage_instructions.md)
 
 ## Usage Examples
 
