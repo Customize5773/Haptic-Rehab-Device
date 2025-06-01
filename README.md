@@ -179,7 +179,7 @@ dev.export_data('session1.csv')
 
 ## Data Visualization
 
-![Angle Visualization](https://github.com/Customize5773/Haptic-Rehab-Device/blob/4a16fa37d6e52ead48504c50453ca700e0feacee/data/Haptic%20Rehabilitation%20Device%20Dashboard%20-%20AICDB%2C%20MPEA%2C%20RPT%2C%20PME%2C%20PSER.png)
+![Angle Visualization](https://github.com/Customize5773/Haptic-Rehab-Device/blob/7cf49835d305c0b769f29969f21e20aff55bd513/data/Haptic%20Rehabilitation%20Session%20Analysis%20-%20Bilateral%20Arm%20Movement%20%26%20Movement%20Error%20Analysis.png)
 
 **Sample MATLAB Analysis:**
 ```matlab
