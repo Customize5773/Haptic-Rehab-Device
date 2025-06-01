@@ -7,7 +7,7 @@
 [![Platform: Arduino](https://img.shields.io/badge/Platform-Arduino_Mega_2560-00979D)](https://www.arduino.cc/)
 
 > Real-time motion correction system for physical therapy using IMU sensors and haptic feedback
-
+>
 > Copyrigth: https://www.instructables.com/member/dfougias/
 
 ## What is a Haptic Rehabilitation Device?
@@ -100,7 +100,6 @@ graph LR
 - Neuromuscular re-education
 
 ## Hardware Setup
-![Circuit Diagram](hardware/schematics/v1.0/circuit_diagram.png)
 
 **Core Components:**
 1. Arduino Mega 2560
